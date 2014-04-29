@@ -70,7 +70,8 @@ if (isset($_SESSION['cells'])) {
     <div class="row marketing">
         <div class="col-lg-12">
             An implementation of <a href="http://en.wikipedia.org/wiki/Conway's_Game_of_Life">Conway's Game of Life</a>
-            in PHP just as a personal coding excercise.  It's all very procedural.
+            in PHP just as a personal coding excercise.  It's all very procedural.<br>
+            <a class="btn btn-default" href="https://github.com/matula/game-of-life">Github</a>
         </div>
     </div>
     <div class="row marketing">
