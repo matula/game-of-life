@@ -70,7 +70,7 @@ if (isset($_SESSION['cells'])) {
     <div class="row marketing">
         <div class="col-lg-12">
             An implementation of <a href="http://en.wikipedia.org/wiki/Conway's_Game_of_Life">Conway's Game of Life</a>
-            in PHP just as a personal coding excercise.  It's all very procedural. 
+            in PHP just as a personal coding excercise.  It's all very procedural.
         </div>
     </div>
     <div class="row marketing">
@@ -101,7 +101,7 @@ if (isset($_SESSION['cells'])) {
                 <?php unset($_SESSION['cells']) ?>
             <?php endif; ?>
             <hr>
-            <a href="/?new=true" class="btn btn-default">Clear</a> <a href="/" class="btn btn-success">Next</a>
+            <a href="./?new=true" class="btn btn-default">Clear</a> <a href="./" class="btn btn-success">Next</a>
         </div>
     </div>
 
